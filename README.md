@@ -1,2 +1,1 @@
-# Sistemas-Operacionais
-## Universidade Federal de Uberlândia
+# Sistemas Operacionais - Universidade Federal de Uberlândia
