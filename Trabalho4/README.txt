@@ -12,5 +12,3 @@ ex C)
 gcc -o ex4_c ex4_c.c -pthread
 ./ex4_c
 
-Vídeo:
-https://drive.google.com/drive/folders/1niDvV5xKdUvzjrsVVyRcogZsmdDF3cxe?usp=sharing
